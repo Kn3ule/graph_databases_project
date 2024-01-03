@@ -25,7 +25,7 @@ The repository includes exercises and solutions for working with graph databases
 
 ## Presentation and Solutions
 Included in this repository are:
-- The presentation slides used for the course.
+- Initial data for practical demonstration.
 - Detailed solutions for the exercises.
 - Example queries and outputs demonstrated during the presentation.
 
